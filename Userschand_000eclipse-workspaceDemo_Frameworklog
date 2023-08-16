@@ -1,0 +1,18 @@
+2023-08-16 13:34:05,555 +0530 [main] INFO  (BaseClass.java:43) - URL is Open
+2023-08-16 13:34:10,032 +0530 [main] INFO  (TC_01.java:18) - Entered the Username
+2023-08-16 13:34:10,326 +0530 [main] INFO  (TC_01.java:21) - Entered the Password
+2023-08-16 13:34:13,511 +0530 [main] INFO  (TC_01.java:24) - Clicked on login button
+2023-08-16 13:34:14,330 +0530 [main] INFO  (TC_01.java:29) - Login Test Passed
+2023-08-16 13:39:28,674 +0530 [main] INFO  (BaseClass.java:43) - URL is Open
+2023-08-16 13:39:30,420 +0530 [main] INFO  (TC_01.java:18) - Entered the Username
+2023-08-16 13:39:30,840 +0530 [main] INFO  (TC_01.java:21) - Entered the Password
+2023-08-16 13:39:34,135 +0530 [main] INFO  (TC_01.java:24) - Clicked on login button
+2023-08-16 13:39:34,175 +0530 [main] INFO  (TC_01.java:29) - Login Test Passed
+2023-08-16 15:17:24,376 +0530 [TestNG-tests-1] INFO  (BaseClass.java:43) - URL is Open
+2023-08-16 15:17:32,200 +0530 [TestNG-tests-1] INFO  (TC_01.java:18) - Entered the Username
+2023-08-16 15:17:32,842 +0530 [TestNG-tests-1] INFO  (TC_01.java:21) - Entered the Password
+2023-08-16 15:17:58,698 +0530 [TestNG-tests-1] INFO  (TC_01.java:24) - Clicked on login button
+2023-08-16 15:17:58,726 +0530 [TestNG-tests-1] INFO  (TC_01.java:29) - Login Test Passed
+2023-08-16 15:19:04,423 +0530 [TestNG-tests-2] INFO  (TC_02.java:16) - Entered the Username1
+2023-08-16 15:19:05,226 +0530 [TestNG-tests-2] INFO  (TC_02.java:19) - Entered the Password2
+2023-08-16 15:19:11,208 +0530 [TestNG-tests-2] INFO  (TC_02.java:22) - Clicked on login button
